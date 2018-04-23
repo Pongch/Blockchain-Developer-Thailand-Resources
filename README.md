@@ -1,11 +1,11 @@
-#Blockchain Developers Thailand Resources
+# Blockchain Developers Thailand Resources
 =========================================
 แหล่งรวม Content/resource สำหรับนักพัฒนาในไทยที่สนใจ Blockchain และ Distributed Ledger Technology
 ใครสนใจ Join กลุ่มเข้าไปได้ที่ https://www.facebook.com/groups/879466468887478
 
 ## FAQ(คำถามที่พบบ่อย)
 ================
-ในนี้คือคำถามที่พบบ่อยในกลุมนะครับ
+ในนี้คือคำถามที่พบบ่อยในกลุ่มนะครับ
 
 ### Blockchain คืออะใร ทำไมถึงต้องใช้ Blockchain
 ### Consensus คืออะใร/ มีแบบไหนบ้าง
@@ -32,13 +32,14 @@
 - Web Development Basics
 
 2. Distributed Systems
-- เช่น Raft/ PBFT
+- เช่น Raft/PBFT/Proof of Authority
 - Proof of Work Consensus
 - Proof of Stake Consensus
 
 2. Cryptography
 - Symmetric Key Cryptography
 - Asymmetric Key Cryptography
+- Hashing Functions (ECDSA, SHA256 ๆลๆ)
 
 3. Economics
 - Game Theory
@@ -60,6 +61,8 @@ Protocol Developer จะเป็นคนพัฒนา Blockchain ในร�
 ### มีโปรเจ็กไหนในไทยที่ใช้ Blockchain แล้วบ้าง
 ### ในไทยมีใครจ้าง Blockchain Developer บ้าง
 
+ในขณะนี้ดูได้ใน Job Board (เป็น Board ชั่วคราวก่อน อาจจะ Migrate ไปที่อื่นทีหลังครับ) : https://docs.google.com/spreadsheets/d/1q0nAKJYNW-_WqrXJnOjcHo_ebg0kpSLrxsf-53GjzIc/edit?usp=sharing
+
 ## รวมบทความที่น่าสนใจเกี่ยวกับ Blockchain
 ==================================
 + รวมคำถามที่ใช้ Interview Blockchain Developer: <https://medium.com/@i6mi6/the-ultimate-collection-of-ethereum-solidity-and-smart-contracts-interview-questions-ef610d250012>
@@ -73,6 +76,9 @@ https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-developmen
 + Mastering Bitcoin: Unlocking Digital Currencies https://www.goodreads.com/book/show/21820378-mastering-bitcoin
 + Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World https://www.goodreads.com/book/show/25894041-blockchain-revolution
 
+### รวบรวม Resources อื่นๆที่หน้าสนใจ
+
++ ความรู้ทางด้าน Crypto Economics (เศรษฐศาสตร์ Crypto) https://github.com/jpantunes/awesome-cryptoeconomics
 
 ## License
 MIT LICENSE
